@@ -1,4 +1,4 @@
-# 📚 專案 README：評論評分預測模型 (Bi-LSTM Model for Review Rating Prediction)
+# 📚 評論評分預測模型 (Bi-LSTM Model for Review Rating Prediction)
 
 ## 🎯 專案簡介
 [cite_start]本專案旨在透過自然語言處理（NLP）技術，使用 **雙向長短期記憶網路 (Bi-LSTM)** 模型來預測產品評論的星級評分 (1-5星)。模型整合了評論的標題 (`title`)、內文 (`text`)，以及額外的結構化特徵如是否為驗證購買 (`verified_purchase`) 和有用票數 (`helpful_vote`) 進行多模態輸入訓練 [cite: 4, 9]。
